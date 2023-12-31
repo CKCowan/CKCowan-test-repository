@@ -5,3 +5,5 @@ Testing connection to CKCowan GitHub account and computer
 This is just a test to verify connection to local computer and ability to commit and such
 
 #I cloned the repository into ckcsites folder using https
+
+#Able to stage, commit, and push via VSC without a problem!
